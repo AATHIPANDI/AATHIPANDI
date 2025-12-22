@@ -30,10 +30,11 @@ In the calm of silence, ideas bloom — and the best code flows like verse.
 
 > _“Between logic and emotion, I find my rhythm — in code, in words, in life.”_
 </br>
- 
-  ![Snake animation](https://github.com/aaththipandi/aaththipandi/blob/output/github-contribution-grid-snake.svg)
- 
+
+ ![Snake animation](https://raw.githubusercontent.com/aaththipandi/aaththipandi/output/github-contribution-grid-snake.svg)
+
 </div>
+
 
 
 
