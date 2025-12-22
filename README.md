@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm ஆத்திப் பாண்டி</h1>
 <h3 align="center">Machine Learning Enthusiast | Python Developer | Data Explorer</h3>
-     
+
 ```console
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║     _        _  _____ _   _ _____ _   _ ___   ____   _    _   _ ____ ___   ║
@@ -29,6 +29,12 @@ to **web apps** that breathe life into data.
 In the calm of silence, ideas bloom — and the best code flows like verse.  
 
 > _“Between logic and emotion, I find my rhythm — in code, in words, in life.”_
+</br>
+ 
+  ![Snake animation](https://github.com/aaththipandi/aaththipandi/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
 
 
 
